@@ -7,4 +7,7 @@ add_executable(LabAssignments "Lab14 - Class & Constructors/main.cpp"
         "Lab14 - Class & Constructors/Artist.h"
         "Lab14 - Class & Constructors/Artwork.h"
         "Lab14 - Class & Constructors/Artwork.cpp"
-        "Lab14 - Class & Constructors/Artist.cpp")
+        "Lab14 - Class & Constructors/Artist.cpp"
+        )
+
+add_executable(LabAssignments "Lab15 - Ordered Lists/main.cpp")
